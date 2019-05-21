@@ -16,7 +16,7 @@ main {
   width: 100%;
   height: 100%;
   flex-flow: wrap;
-  /*justify-content: center;*/
+  justify-content: center;
   align-items: center;
 }
 
